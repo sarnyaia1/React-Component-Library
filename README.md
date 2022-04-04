@@ -1,4 +1,4 @@
-# Create React Library project 1
+# Create a React Library and import it to a React project
 
 ## Log in npm
 
